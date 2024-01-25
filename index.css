@@ -2,15 +2,72 @@
 margin: 0;
 padding: 0;
 
-
 }
-.content{
-    position: absolute;
-    top: 5vh;
-    left: 40vw;
-}
+    
 .fundo img{
     width: 100vw;
 
+
+}
+ .cabecalho img{
+    position: absolute;
+    top: 2vw;
+    left: 40vw;
+width: 100px;
+height: 50px;
+padding: 5px;
+
+}
+ h1{
+    position: absolute;
+    top: 8vw;
+    left: 32vw;
+color: blanchedalmond;
+font-size: 30px;
+padding: 5px;
+}
+ h2{
+color: blanchedalmond;
+font-size: 15px;
+position: absolute;
+top: 12vw;
+left: 33vw;
+
+}
+.flebox input{
+    position: absolute;
+    top: 16vw;
+    left: 33vw;
+    width: 30vh;
+    height: 5vh;
+    border-radius: 3px;
+    border: none;
+    color: bisque;
+
+}
+.flebox button{
+    position: absolute;
+    top: 16vw;
+    left: 47vw;
+    width: 20vh;
+    height: 5vh;
+    border-radius: 3px;
+    border: none;
+    background-color: rgb(12, 12, 252);
+    color: bisque;
+}
+h5{
+    color: rgb(8, 8, 8);
+    font-size: 7px;
+    position: absolute;
+    top: 20vw;
+    left: 33vw;
+    text-align: center;
+    
+}
+.casa img{
+    position: absolute;
+    top: 25vw;
+    left: 32vw;
 
 }
