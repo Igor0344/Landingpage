@@ -1,0 +1,16 @@
+*{
+margin: 0;
+padding: 0;
+
+
+}
+.content{
+    position: absolute;
+    top: 5vh;
+    left: 40vw;
+}
+.fundo img{
+    width: 100vw;
+
+
+}
