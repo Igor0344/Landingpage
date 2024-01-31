@@ -6,6 +6,7 @@ padding: 0;
     
 .fundo img{
     width: 100vw;
+    
 
 
 }
@@ -16,30 +17,33 @@ padding: 0;
 width: 100px;
 height: 50px;
 padding: 5px;
+font-family: roboto sans sans-serif;
 
 }
  h1{
     position: absolute;
     top: 8vw;
-    left: 32vw;
+    left: 29vw;
 color: blanchedalmond;
-font-size: 30px;
+font-size: 40px;
 padding: 5px;
+font-family: roboto sans sans-serif;
 }
  h2{
 color: blanchedalmond;
-font-size: 15px;
+font-size: 20px;
 position: absolute;
 top: 12vw;
-left: 33vw;
+left: 30vw;
+font-family: roboto sans sans-serif;
 
 }
 .flebox input{
     position: absolute;
     top: 16vw;
     left: 33vw;
-    width: 30vh;
-    height: 5vh;
+    width: 35vh;
+    height: 6vh;
     border-radius: 3px;
     border: none;
     color: bisque;
@@ -49,11 +53,11 @@ left: 33vw;
     position: absolute;
     top: 16vw;
     left: 47vw;
-    width: 20vh;
-    height: 5vh;
+    width: 25vh;
+    height: 6vh;
     border-radius: 3px;
     border: none;
-    background-color: rgb(12, 12, 252);
+    background-color: #08855e;
     color: bisque;
 }
 h5{
@@ -63,6 +67,7 @@ h5{
     top: 20vw;
     left: 33vw;
     text-align: center;
+    font-family: roboto sans sans-serif;
     
 }
 .casa img{
@@ -71,3 +76,115 @@ h5{
     left: 32vw;
 
 }
+
+
+
+i{
+    font-size: 2rem;
+    color: #08855e;
+    padding: 5px;
+}
+.icons{
+    position: absolute;
+    top: 50vw;
+    left: 15vw; 
+    font-size: 12px;
+    font-family: roboto sans sans-serif;
+}
+
+.icons2{
+    position: absolute;
+    top: 50vw;
+    left: 38vw; 
+    font-size: 12px;
+    font-family: roboto sans sans-serif;
+
+
+}
+.icons3{
+    position: absolute;
+    top: 50vw;
+    left: 60vw; 
+    font-size: 12px;
+    font-family: roboto sans sans-serif;
+}
+.logo{
+display: flex;
+position: absolute;
+top: 60vw;
+left: 38vw;
+justify-content: center;
+padding: 30px 0;
+margin: 40px auto;
+width: 200px;
+border: 2px 0px;
+border-right: none;
+border-left: none;
+
+}
+.logo img{
+width: 75px;
+margin: 20px 10px;
+height: 50px;
+
+}
+.igor{
+position: absolute;
+top: 80vw;
+left: 30vw;
+text-align: center;
+font-size: 17px;
+font-family: roboto sans sans-serif;
+
+}
+#igor1{
+
+    font-size: 10px;
+    padding: 10px;
+}
+.igor button{
+    border-radius: 3px;
+    border: none;
+    background-color: #08855e;
+    color: bisque;
+    width: 20vh;
+    height: 8vh;
+}
+.igor3{
+    position: absolute;
+    top: 95vw;
+    left: 30vw;
+    text-decoration: underline;
+    text-align: center;
+    font-family: roboto sans sans-serif;
+    padding: 15px;
+    margin: 15px;
+    text-align: left;
+
+}
+h3{
+    position: absolute;
+    top: 95vw;
+    left: 45vw;
+    color: #08855e;
+    text-align: center;
+
+}
+.igor4{
+font-size: 10px;
+color: #08855e;
+position: absolute;
+    top:115vw;
+    left: 70vw;
+;
+
+}
+
+ 
+
+
+
+
+    
+
+
